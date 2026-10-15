@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DANK.ARC | Official Website</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#080808;color:#f5f0e5;font-family:Arial,sans-serif}
+nav{padding:25px 8%;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #3b3020}
+.logo{font-size:25px;font-weight:900;letter-spacing:3px}
+.logo span,h1 span{color:#d9b66b}
+nav a,.btn{color:#080808;background:#d9b66b;padding:12px 20px;border-radius:30px;text-decoration:none;font-weight:bold}
+.hero{min-height:75vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:50px 20px}
+.tag{color:#d9b66b;letter-spacing:4px;font-size:12px}
+h1{font-size:clamp(45px,10vw,100px);line-height:1.1;margin:25px 0}
+p{color:#aaa;line-height:1.8;max-width:550px;margin:0 auto 28px}
+.btn{display:inline-block}
+section{padding:65px 8%;text-align:center;border-top:1px solid #302719}
+h2{font-size:35px;margin:15px 0 25px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:18px;margin-top:30px}
+.card{padding:30px 20px;background:#14130f;border:1px solid #493b22;border-radius:12px}
+.card h3{color:#d9b66b;margin-bottom:12px}
+footer{padding:25px;text-align:center;color:#777;border-top:1px solid #302719;font-size:13px}
+</style>
+</head>
+<body>
+<nav>
+<div class="logo">DANK<span>.</span>ARC</div>
+<a href="https://www.instagram.com/dank.arc/" target="_blank">Instagram ↗</a>
+</nav>
+<main>
+<div class="hero">
+<div class="tag">TAMIL INTERNET CULTURE</div>
+<h1>WELCOME TO<br><span>DANK.ARC</span></h1>
+<p>Memes. Edits. Tamil vibes. A creative corner of the internet for people who get the joke. Stay original and make your own mark.</p>
+<a class="btn" href="https://www.instagram.com/dank.arc/" target="_blank">EXPLORE OUR INSTAGRAM ↗</a>
+</div>
+<section>
+<div class="tag">WHAT WE DO</div>
+<h2>One Brand. Many Moods.</h2>
+<div class="cards">
+<div class="card"><h3>01 / MEMES</h3><p>Relatable moments and Tamil humour made to share.</p></div>
+<div class="card"><h3>02 / EDITS</h3><p>Creative visuals, bold styles and signature energy.</p></div>
+<div class="card"><h3>03 / CULTURE</h3><p>Our corner of the internet. Our own vibe.</p></div>
+</div>
+</section>
+<section>
+<div class="tag">THE STORY</div>
+<h2>Not Just a Page. A Whole Vibe.</h2>
+<p>DANK.ARC brings humour, visual creativity and internet culture together. Follow us on Instagram to catch the latest posts and updates.</p>
+<a class="btn" href="https://www.instagram.com/dank.arc/" target="_blank">FOLLOW @DANK.ARC ↗</a>
+</section>
+</main>
+<footer>© 2026 DANK.ARC · Made for the culture.</footer>
+</body>
+</html>
